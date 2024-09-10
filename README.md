@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirtija&label=Profile%20views&color=0e75b6&style=flat" alt="tirtija" /> </p>
 
-- 🔭 I’m currently working on [the GEARS Research Project.](https://sites.google.com/view/gears-game/home)
+- 👨‍💻 I’m currently working on [the GEARS Research Project.](https://sites.google.com/view/gears-game/home)
 
 - 🤝 I’m looking to collaborate on **new projects between clients and organizations.**
 
